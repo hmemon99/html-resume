@@ -1,0 +1,76 @@
+ul {
+	font-weight: bold;
+}
+h2 {
+	background-color: #b89b76;
+	font-family: Garamond;
+}
+span {
+	font-family: cursive;
+}
+h3 {
+	text-decoration:underline;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color:red;
+}
+body {
+	 background-image: url(http://i60.tinypic.com/2nu0ugp.png); 
+}
+#header {
+	margin: 0 auto;
+	outline : solid 1px white;
+	z-index: 1;
+	position: fixed;
+	background-color: #E9C2A6;
+	border-radius: 10px;
+	padding: 15px;
+	width: 100%;
+	margin-top: -20px;
+	height: 60px;
+	margin-bottom: 10px;
+}
+section {
+	background-color: #E9C2A6;
+	border-radius: 10px;
+	padding: 15px;
+	margin-right: 20px;
+
+}
+#Education {
+	margin: 10px;
+}
+#Experience {
+	margin: 10px;
+}
+#Interests {
+	margin: 10px;
+}
+#name {
+	float: left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 32px;
+	font-family: Garamond;
+	color: black; 
+	margin-top: -1px;
+}
+#email {
+	position: absolute;
+	right: 0;
+	float:right;
+	margin-right: 10px;
+	padding-top: 10px;
+	font-size: 20px;
+	font-family: Garamond;
+	color: black;
+	margin-top: -2px;
+}
+.right {
+	padding-top: 70px;
+}
+
